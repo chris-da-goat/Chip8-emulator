@@ -42,5 +42,5 @@ ROM: Path to a CHIP-8 ROM file
 Example: ./chip8emu 10 1 ./Downloads/pong.ch8
 ```
 
-<img width="958" height="506" alt="Image" src="https://github.com/user-attachments/assets/244ec981-e1fe-4113-8332-b1bc9a8554c2" />
+<img width="953" height="506" alt="Image" src="https://github.com/user-attachments/assets/da24d692-417f-42dc-a213-aa0686fcd205" />
 
