@@ -5,7 +5,7 @@ This project implements the full CHIP-8 instruction set, including timers, input
 This was really fun to make and I plan to move onto making more complex emulators at some point in the future such as a gameboy emulator.
 
 
-## Features
+### Features
   * Full CHIP-8 instruction set (35 opcodes implemented)
   * Classic 16-key hexadecimal keypad mapped to the keyboard
   * SDL3 rendering with scalable window size
@@ -13,7 +13,7 @@ This was really fun to make and I plan to move onto making more complex emulator
   * Collision detection and sprite drawing with XOR logic
 
 
-## Key mappings
+### Key mappings
 ```
 Original CHIP8:        Keyboard:
   1 2 3 C       →        1 2 3 4
@@ -42,6 +42,5 @@ ROM: Path to a CHIP-8 ROM file
 Example: ./chip8emu 10 1 ./Downloads/pong.ch8
 ```
 
-
-
+<img width="958" height="506" alt="Image" src="https://github.com/user-attachments/assets/244ec981-e1fe-4113-8332-b1bc9a8554c2" />
 
